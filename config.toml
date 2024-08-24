@@ -2,15 +2,15 @@ baseURL = "http://me.fixin.dev"
 languageCode = "en"
 defaultContentLanguage = "en"
 
-title = "Lynx"
+title = "fixin.dev"
 # copyright = "Copy, _right?_ :thinking_face:"
 
 enableEmoji = true
 disableKinds = ["taxonomy", "term"]
 
 [params.author]
-  # name = "Furkan"
-  # headline = "System Administrator & Open-Source Enthusiast"
+  name = "Furkan"
+  headline = "System Administrator & Open-Source Enthusiast"
   # image = "img/author.jpg"  # path relative to static directory
 
   links = [
